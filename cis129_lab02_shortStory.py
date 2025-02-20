@@ -1,5 +1,5 @@
 print("I once knew a young lady who stole my heart")
-#This is Cris Valenzuela, aliases inclue Sensei Cris, Samurai, and Kung-fu_panda
+#This is Cris Valenzuela, aliases inclue Sensei Cris, Samurai, and Kung-fu_panda.
 print("I'm not proud of all the punches i've thrown for this lady")
 #i am listening to noah kahan as I do this
 print("for the sake of being young drunk and alone")
